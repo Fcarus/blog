@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="893e8d47-2855-4664-8fe9-e6bc6c8c55b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iS42prrIWAVuXD0hNzppBd4nWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\21000\Desktop\vue-test\test\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893e8d47-2855-4664-8fe9-e6bc6c8c55b0" name="Default Changelist" comment="" />
+      <created>1601887456111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601887456111</updated>
+      <workItem from="1601887457439" duration="98000" />
+      <workItem from="1601887704501" duration="16000" />
+      <workItem from="1601891825797" duration="34000" />
+      <workItem from="1601892376475" duration="9077000" />
+      <workItem from="1601904535372" duration="5318000" />
+      <workItem from="1601967395518" duration="2492000" />
+      <workItem from="1601970136760" duration="155000" />
+      <workItem from="1601970338637" duration="672000" />
+      <workItem from="1601972147668" duration="9442000" />
+      <workItem from="1602044077514" duration="11390000" />
+      <workItem from="1602131776842" duration="2284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="340" key="#Notifications" timestamp="1601891838836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="340" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1601891838836" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601893013530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601893013530" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601893359584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601893359584" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601892501525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601892501525" />
+    <state x="682" y="424" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601892697668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="424" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601892697668" />
+  </component>
+</project>
